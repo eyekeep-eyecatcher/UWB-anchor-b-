@@ -1,1 +1,1 @@
-# UWB-anchor-b -speaker b
+# UWB-anchor-b -speaker B
